@@ -10,10 +10,6 @@ Highly driven Engineer specializing in robust server-side architectures and AI i
 
 ## 🛠️ My Tech Stack
 
-### **🤖 AI & Machine Learning Engineering**
-🧠 **LLM Integration** (OpenAI API, Anthropic) | 🦜🔗 **LangChain** / LlamaIndex  
-🗄️ **Vector Databases** (Pinecone, ChromaDB, PGVector) | 🤗 **Hugging Face**
-
 ### **💻 Languages & Frameworks**
 🟢 **Node.js** | **NestJS** | Express.js  
 🟡 **Python** | **FastAPI**   
@@ -24,19 +20,24 @@ Highly driven Engineer specializing in robust server-side architectures and AI i
 ### **⚙️ DevOps, Cloud & Tools**
 🐳 **Docker** | ☁️ **AWS** | 🐙 **Git & GitHub** | 🏁 CI/CD Pipelines
 
+### **🤖 AI & Machine Learning Engineering**
+🧠 **LLM Integration** (OpenAI API, Anthropic) | 🦜🔗 **LangChain** / LlamaIndex  
+🗄️ **Vector Databases** (Pinecone, ChromaDB, PGVector) | 🤗 **Hugging Face**
+
+
 ---
 
 ## 🚀 Featured Projects
 
-### [SCODA AI](https://github.com/Shukazuby/scoda-ai)
-* **Description:** An intelligent application utilizing LLMs to solve a specific problem (e.g., RAG pipeline, AI agent, semantic search).
+### [SCODA AI](https://github.com/Shukazuby/scoda-ai-backend)
+* **Description:** An intelligent application utilizing LLMs to solve a specific problem.
 * **Tech Stack:** Node.js, NestJs, LangChain, Gemini API, MongoDB
-* **Key Feature:** Implemented Retrieval-Augmented Generation (RAG) allowing users to query custom PDFs with minimal latency.
+* **Key Feature:** Implemented a generative ai.
 
 ### [WALE GRILLS](https://github.com/Shukazuby/wg-backend)
 * **Description:** A robust API project built for scale.
-* **Tech Stack:** NestJS, MongoDB, Docker, Rate Limiting, JWT Authentication, Cloudinary
-* **Key Feature:** Implemented Redis caching which reduced API response time by 40%.
+* **Tech Stack:** NestJS, MongoDB, Docker, Rate Limiting, JWT Authentication, Cloudinary, Stripe
+* **Key Feature:** Built a booking and payment system that helps increase sales by 40%.
 
 ---
 
