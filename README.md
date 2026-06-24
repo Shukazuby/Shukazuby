@@ -20,7 +20,7 @@ Highly driven Engineer specializing in robust server-side architectures and AI i
 ### **⚙️ DevOps, Cloud & Tools**
 🐳 **Docker** | ☁️ **AWS** | 🐙 **Git & GitHub** | 🏁 CI/CD Pipelines
 
-### **🤖 AI & Machine Learning Engineering**
+### **🤖 Currently Building and Learning AI Engineering**
 🧠 **LLM Integration** (OpenAI API, Anthropic) | 🦜🔗 **LangChain** / LlamaIndex  
 🗄️ **Vector Databases** (Pinecone, ChromaDB, PGVector) | 🤗 **Hugging Face**
 
@@ -32,7 +32,7 @@ Highly driven Engineer specializing in robust server-side architectures and AI i
 ### [SCODA AI](https://github.com/Shukazuby/scoda-ai-backend)
 * **Description:** An intelligent application utilizing LLMs to solve a specific problem.
 * **Tech Stack:** Node.js, NestJs, LangChain, Gemini API, MongoDB
-* **Key Feature:** Implemented a generative ai.
+* **Key Feature:** Built a generative ai.
 
 ### [WALE GRILLS](https://github.com/Shukazuby/wg-backend)
 * **Description:** A robust API project built for scale.
@@ -54,4 +54,4 @@ Highly driven Engineer specializing in robust server-side architectures and AI i
 I am actively looking for **Backend Engineering** and **AI Engineering** roles where I can contribute to complex systems and scale applications. 
 
 * 💼 **LinkedIn:** [linkedin.com/in/zubaidat-shuka](http://linkedin.com/in/zubaidat-shuka)
-* 🐦 **Twitter/X:** [@YourHandle](https://x.com/your-handle) *(👈 Update or remove)*
+* 🐦 **Twitter/X:** [@YourHandle](https://x.com/shukazuby) 
