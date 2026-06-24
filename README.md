@@ -4,7 +4,7 @@
 Highly driven Engineer specializing in robust server-side architectures and AI integration. Passionate about building high-performance microservices, clean API design, and leveraging Large Language Models (LLMs) to build intelligent, data-driven applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/zubaidat-shuka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com) *(👈 Replace with your actual email if desired)*
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shukazuby@.com) 
 
 ---
 
@@ -16,7 +16,7 @@ Highly driven Engineer specializing in robust server-side architectures and AI i
 
 ### **💻 Languages & Frameworks**
 🟢 **Node.js** | **NestJS** | Express.js  
-🟡 **Python** | **FastAPI** | Django / Flask  
+🟡 **Python** | **FastAPI**   
 
 ### **🗄️ Databases & Caching**
 ✦ **PostgreSQL** | 🍃 **MongoDB** | ⚡ **Redis** (Caching & Queues)
@@ -28,14 +28,14 @@ Highly driven Engineer specializing in robust server-side architectures and AI i
 
 ## 🚀 Featured Projects
 
-### [AI Project Name](https://github.com/Shukazuby/your-repo-link)
+### [SCODA AI](https://github.com/Shukazuby/scoda-ai)
 * **Description:** An intelligent application utilizing LLMs to solve a specific problem (e.g., RAG pipeline, AI agent, semantic search).
-* **Tech Stack:** Python, FastAPI, LangChain, OpenAI API, ChromaDB
+* **Tech Stack:** Node.js, NestJs, LangChain, Gemini API, MongoDB
 * **Key Feature:** Implemented Retrieval-Augmented Generation (RAG) allowing users to query custom PDFs with minimal latency.
 
-### [Backend Project Name](https://github.com/Shukazuby/your-repo-link)
-* **Description:** A robust API project or microservice architecture built for scale.
-* **Tech Stack:** NestJS, PostgreSQL, Redis, Docker
+### [WALE GRILLS](https://github.com/Shukazuby/wg-backend)
+* **Description:** A robust API project built for scale.
+* **Tech Stack:** NestJS, MongoDB, Docker, Rate Limiting, JWT Authentication, Cloudinary
 * **Key Feature:** Implemented Redis caching which reduced API response time by 40%.
 
 ---
